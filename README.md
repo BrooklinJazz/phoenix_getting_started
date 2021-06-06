@@ -1,5 +1,7 @@
 # PhoenixGettingStarted
+PhoenixGettingStarted is an instructional repository made for my article [Elixir & Phoenix v1.5.9 getting started on Windows 10.](https://brooklinmyers.medium.com/elixir-phoenix-v1-5-9-getting-started-on-windows-10-77761e4a53d8)
 
+# How to Run this project
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
